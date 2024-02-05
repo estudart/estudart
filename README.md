@@ -7,7 +7,7 @@ Olá! 👋 Meu nome é Érico Studart, sou um desenvolvedor apaixonado por criar
 ## Projetos Destacados
 
 - [Street Fighters](https://estudart.github.io/StreetFighters/): O projeto "Street Fighters" é uma aplicação web construída utilizando React.js. Inspirado nos clássicos jogos de luta, oferece uma experiência interativa onde os usuários podem escolher entre diversos personagens, cada um com habilidades únicas, para usar seus especiais em um ambiente virtual.
-- 
+
 - [Planets API](https://github.com/estudart/Python-Flask_Studies): Esta API foi desenvolvida em Flask, utilizando Python. Ela oferece endpoints para manipulação de informações sobre planetas e usuários.
 
 ## Contato
