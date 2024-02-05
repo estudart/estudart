@@ -1,16 +1,21 @@
-### Hi there 👋
+# Sobre Mim
 
-<!--
-**estudart/estudart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Meu nome é Érico Studart, sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiência em:
 
-Here are some ideas to get you started:
+- **Linguagens de Programação:** Python, JavaScript
+- **Frameworks:** Flask (Python), Node.js, Express.js (Node.js), React.js
+- **Frontend:** HTML, CSS, JavaScript
+- **Banco de Dados:** SQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Destacados
+
+- [Street Fighters](https://estudart.github.io/StreetFighters/): Breve descrição.
+- [Nome do Projeto 2](link_para_o_projeto_2): Breve descrição.
+
+## Contato
+
+- Email: [erico.studartdf@gmail.com](mailto:erico.studartdf@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/ericostudart/](https://www.linkedin.com/in/ericostudart/)
+
+Estou aberto a oportunidades de colaboração e adoraria discutir como posso contribuir para o seu projeto. Vamos trabalhar juntos para criar algo incrível!
+
