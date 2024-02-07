@@ -1,20 +1,23 @@
-Olá! 👋 Meu nome é Érico Studart, sou um desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiência em:
+# Welcome! 👋
+
+Hello! 👋 My name is Érico Studart, and I'm a developer passionate about creating innovative solutions. I have experience in:
 
 - **BackEnd:** 🐍 Python, Flask, Node.js, Express.js
 - **Frontend:** 🌐 HTML, 🎨 CSS, 🚀 JavaScript, ⚛️ React.js
-- **Banco de Dados:** 📊 SQL, 🐘 PostgreSQL
+- **Database:** 📊 SQL, 🐘 PostgreSQL
 
-## Projetos Destacados
+## Featured Projects
 
-- [Street Fighters](https://estudart.github.io/StreetFighters/): O projeto "Street Fighters" é uma aplicação web construída utilizando React.js. Inspirado nos clássicos jogos de luta, oferece uma experiência interativa onde os usuários podem escolher entre diversos personagens, cada um com habilidades únicas, para usar seus especiais em um ambiente virtual.
+- [Street Fighters](https://estudart.github.io/StreetFighters/): The "Street Fighters" project is a web application built using React.js. Inspired by classic fighting games, it offers an interactive experience where users can choose from various characters, each with unique abilities, to use their specials in a virtual environment.
 
-- [Planets API](https://github.com/estudart/Python-Flask_Studies): Esta API foi desenvolvida em Flask, utilizando Python. Ela oferece endpoints para manipulação de informações sobre planetas e usuários.
+- [Planets API](https://github.com/estudart/Python-Flask_Studies): This API was developed in Flask, using Python. It provides endpoints for manipulating information about planets and users.
 
-## Contato
+## Contact
 
 - Email: [erico.studartdf@gmail.com](mailto:erico.studartdf@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/ericostudart/](https://www.linkedin.com/in/ericostudart/)
 
-Estou aberto a oportunidades de colaboração e adoraria discutir como posso contribuir para o seu projeto. Vamos trabalhar juntos para criar algo incrível!
+I'm open to collaboration opportunities and would love to discuss how I can contribute to your project. Let's work together to create something amazing!
+
 
 
