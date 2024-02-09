@@ -11,7 +11,7 @@ Hey there! I'm Érico Studart, a developer fueled by creativity and driven to cr
 ### [Street Fighters](https://estudart.github.io/street-fighters-react/)
 Dive into the thrilling world of the "Street Fighters" web app! Powered by React.js, it channels the nostalgia of classic fighting games, inviting users to select characters with unique abilities and unleash their specials in a virtual battleground.
 
-### Solar Explorer
+### [Solar Explorer](https://github.com/estudart/planets-react-frontend)
 [BackEnd](https://github.com/estudart/planets-api):
 Discover the Planets API, a Flask-powered backend that serves as a hub for planet and user data manipulation.
 
