@@ -2,7 +2,8 @@
 
 Hey there! I'm Érico Studart, a developer fueled by creativity and driven to craft innovative solutions. Here's where I excel:
 
-- **BackEnd:** 🐍 Python, Flask, Node.js, Express.js
+- **BackEnd:** ![Python](https://img.shields.io/badge/Python-3.9-blue)
+, Flask, Node.js, Express.js
 - **Frontend:** 🌐 HTML, 🎨 CSS, 🚀 JavaScript, ⚛️ React.js
 - **Database:** 📊 SQL, 🐘 PostgreSQL
 
