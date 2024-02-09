@@ -16,7 +16,7 @@ Dive into the thrilling world of the "Street Fighters" web app! Powered by React
 Discover the Planets API, a Flask-powered backend that serves as a hub for planet and user data manipulation.
 
 [FrontEnd](https://github.com/estudart/planets-react-frontend):
-Retrieve and display information about all planets in the solar system by fetching data from an API and rendering it using React.
+Retrieve and display information about planets in the solar system by fetching data from an API and rendering it with React.
 
 ## Contact
 
