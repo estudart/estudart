@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-Hey there! I'm Érico Studart, a developer fueled by creativity and driven to craft innovative solutions. Here's where I excel:
+Hey there! I'm Érico Studart, a FullStack developer fueled by a passion for coding and embracing new technologies.
 
 - **BackEnd:**
 
@@ -29,4 +29,4 @@ Retrieve and display information about planets in the solar system by fetching d
 - **Email:** [erico.studartdf@gmail.com](mailto:erico.studartdf@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ericostudart](https://www.linkedin.com/in/ericostudart/)
 
-Let's team up and turn your project ideas into reality! I'm eager to collaborate and bring fresh perspectives to the table.
+Feel free to get in contact with me to talk about programming! I'm eager to collaborate and bring fresh perspectives to the table.
