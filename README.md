@@ -24,6 +24,13 @@ Discover the Planets API, a Flask-powered backend that serves as a hub for plane
 [FrontEnd](https://github.com/estudart/planets-react-frontend):
 Retrieve and display information about planets in the solar system by fetching data from an API and rendering it with React.
 
+### [CryptoPulse](https://estudart.github.io/crypto-portfolio-frontend/)
+[BackEnd](https://github.com/estudart/Crypto_Portfolio_Managment): 
+Familiarize yourself with the API responsible for handling communication between the database of a portfolio management application and its user interface.
+
+[FrontEnd](https://github.com/estudart/crypto-portfolio-frontend):
+Track orders and positions in the cryptocurrency market by retrieving data from the backend on executed orders. Additionally, access real-time data from the cryptocurrency market to monitor your profits.
+
 ## Contact
 
 - **Email:** [erico.studartdf@gmail.com](mailto:erico.studartdf@gmail.com)
